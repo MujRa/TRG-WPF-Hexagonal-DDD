@@ -1,0 +1,6 @@
+D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Domain\bin\Debug\WPFHexagonalDDD.Domain.dll
+D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Domain\bin\Debug\WPFHexagonalDDD.Domain.pdb
+D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Domain\obj\Debug\HexagonalDDD.Domain.csproj.AssemblyReference.cache
+D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Domain\obj\Debug\HexagonalDDD.Domain.csproj.CoreCompileInputs.cache
+D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Domain\obj\Debug\WPFHexagonalDDD.Domain.dll
+D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Domain\obj\Debug\WPFHexagonalDDD.Domain.pdb

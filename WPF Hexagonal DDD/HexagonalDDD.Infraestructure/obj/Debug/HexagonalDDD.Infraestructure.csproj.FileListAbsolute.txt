@@ -1,0 +1,6 @@
+D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\WPFHexagonalDDD.Infraestructure.dll
+D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\WPFHexagonalDDD.Infraestructure.pdb
+D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\HexagonalDDD.Infraestructure.csproj.AssemblyReference.cache
+D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\HexagonalDDD.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\WPFHexagonalDDD.Infraestructure.dll
+D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\WPFHexagonalDDD.Infraestructure.pdb
