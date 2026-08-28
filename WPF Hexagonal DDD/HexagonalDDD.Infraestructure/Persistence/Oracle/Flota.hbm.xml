@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                    assembly="HexagonalDDD.Domain"
+                    namespace="WPFHexagonalDDD.Domain.Aggregates.Item">
+                    <class name="VehiculoAggregate" table="FLOTA_VEHICULOS">
+    <id name="VehiculoId" column="VEHICULOID">
+        <generator class="native"/>
+    </id>
+    <property name="VehiculoAnio" column="VEHICULOANIO" type="int" />
+    <property name="VehiculoMarca" column="VEHICULOMARCA" type="String" />
+    <property name="VehiculoMatricula" column="VEHICULOMATRICULA" type="String" />
+</class>
+</hibernate-mapping>

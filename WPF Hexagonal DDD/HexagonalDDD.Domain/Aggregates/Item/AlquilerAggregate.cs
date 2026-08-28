@@ -8,15 +8,16 @@ namespace WPFHexagonalDDD.Domain.Aggregates.Item
 {
     public class AlquilerAggregate
     {
+        public string Alquilerid { get; private set; }
         public int Vehiculoid { get; private set; }
         public int Clienteid { get; private set; }
         public bool Devuelto { get; private set; }
 
         //Uso NHibernet
         /// <summary>
-        /// Para uso con NHibernate
+        /// Solo para uso con NHibernate
         /// </summary>
-        public AlquilerAggregate() { }
+        protected AlquilerAggregate() { }
 
         //creo objeto a utilizar al alquilar el vehiculo por el cliente
        /// <summary>

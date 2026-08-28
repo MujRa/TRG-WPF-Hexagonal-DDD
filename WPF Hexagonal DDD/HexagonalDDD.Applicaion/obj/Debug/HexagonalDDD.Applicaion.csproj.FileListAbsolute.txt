@@ -17,3 +17,32 @@ D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Applicaion\obj\Debug\HexagonalDDD.App
 D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Applicaion\obj\Debug\Hexagona.7669EB3D.Up2Date
 D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Applicaion\obj\Debug\WPFHexagonalDDD.Applicaion.dll
 D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Applicaion\obj\Debug\WPFHexagonalDDD.Applicaion.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\obj\Debug\HexagonalDDD.Applicaion.csproj.AssemblyReference.cache
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\obj\Debug\HexagonalDDD.Applicaion.csproj.CoreCompileInputs.cache
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\obj\Debug\WPFHexagonalDDD.Applicaion.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\obj\Debug\WPFHexagonalDDD.Applicaion.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\WPFHexagonalDDD.Applicaion.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\WPFHexagonalDDD.Applicaion.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\WPFHexagonalDDD.Domain.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\WPFHexagonalDDD.Infraestructure.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\NHibernate.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\Remotion.Linq.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\Antlr3.Runtime.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\Iesi.Collections.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\WPFHexagonalDDD.Domain.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\WPFHexagonalDDD.Infraestructure.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\NHibernate.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\Remotion.Linq.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\Antlr3.Runtime.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\bin\Debug\Iesi.Collections.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Applicaion\obj\Debug\Hexagona.7669EB3D.Up2Date

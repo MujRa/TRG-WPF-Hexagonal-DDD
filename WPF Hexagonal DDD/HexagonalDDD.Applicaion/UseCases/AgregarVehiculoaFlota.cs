@@ -28,7 +28,7 @@ namespace WPFHexagonalDDD.Applicaion.UseCases
 
             //Guardar vehiculo en flota
             var aggregate = new VehiculoAggregate(vehiculoanio,vehiculomarca, vehiculomatricula);
-            await _vehiculorepository.SaveAsyn(aggregate);
+            await _vehiculorepository.SaveAsync(aggregate);
         }
     }
 }

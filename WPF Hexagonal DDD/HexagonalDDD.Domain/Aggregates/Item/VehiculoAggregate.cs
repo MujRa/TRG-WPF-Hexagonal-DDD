@@ -8,12 +8,18 @@ namespace WPFHexagonalDDD.Domain.Aggregates.Item
 {
     public class VehiculoAggregate
     {
-        public int VehiculoAnio { get; set; }
-        public string VehiculoMarca { get; set; }
-        public string VehiculoMatricula { get; set; }
+        public int VehiculoId { get; private set; }
+        public int VehiculoAnio { get; private set; }
+        public string VehiculoMarca { get; private set; }
+        public string VehiculoMatricula { get; private set; }
 
         //Uso NHibernet
-        public VehiculoAggregate() { }
+        /// <summary>
+        /// Solo para uso de NHibernet
+        /// </summary>
+        protected VehiculoAggregate() { }
+
+
         /// <summary>
         /// Permite agregar el vehiculo a la flota si tiene menos de 5 años
         /// </summary>

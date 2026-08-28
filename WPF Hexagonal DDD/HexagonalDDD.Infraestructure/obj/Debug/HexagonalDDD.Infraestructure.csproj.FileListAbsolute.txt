@@ -4,3 +4,22 @@ D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\HexagonalDD
 D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\HexagonalDDD.Infraestructure.csproj.CoreCompileInputs.cache
 D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\WPFHexagonalDDD.Infraestructure.dll
 D:\Proyecto\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\WPFHexagonalDDD.Infraestructure.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\WPFHexagonalDDD.Infraestructure.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\WPFHexagonalDDD.Infraestructure.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\HexagonalDDD.Infraestructure.csproj.AssemblyReference.cache
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\HexagonalDDD.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\WPFHexagonalDDD.Infraestructure.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\WPFHexagonalDDD.Infraestructure.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\Antlr3.Runtime.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\Iesi.Collections.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\NHibernate.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\Remotion.Linq.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\WPFHexagonalDDD.Domain.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\WPFHexagonalDDD.Domain.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\Antlr3.Runtime.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\Iesi.Collections.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\NHibernate.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\Remotion.Linq.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\HexagonalDDD.Infraestructure\obj\Debug\Hexagona.A81AAF48.Up2Date
