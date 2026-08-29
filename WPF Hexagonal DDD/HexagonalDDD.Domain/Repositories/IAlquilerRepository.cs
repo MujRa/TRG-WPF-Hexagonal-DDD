@@ -16,7 +16,7 @@ namespace WPFHexagonalDDD.Domain.Repositories
         /// <returns></returns>
         Task SaveAsync(AlquilerAggregate aggregate);
 
-
+        
         //Valida si el cliente tiene alquiler
         /// <summary>
         /// Valida si el cliente tiene un alquiler

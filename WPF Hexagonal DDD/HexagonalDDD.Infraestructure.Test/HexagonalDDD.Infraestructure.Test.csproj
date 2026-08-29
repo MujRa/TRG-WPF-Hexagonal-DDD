@@ -49,10 +49,25 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlquilerRepositoryFalso.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HexagonalDDD.Applicaion\HexagonalDDD.Applicaion.csproj">
+      <Project>{BF17D82E-2BE9-4247-8304-43F0F008F808}</Project>
+      <Name>HexagonalDDD.Applicaion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HexagonalDDD.Domain\HexagonalDDD.Domain.csproj">
+      <Project>{5da274ec-de6d-40ef-b45d-7dc17686d279}</Project>
+      <Name>HexagonalDDD.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HexagonalDDD.Infraestructure\HexagonalDDD.Infraestructure.csproj">
+      <Project>{6a08428f-43a2-42ba-b083-1070abc01189}</Project>
+      <Name>HexagonalDDD.Infraestructure</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

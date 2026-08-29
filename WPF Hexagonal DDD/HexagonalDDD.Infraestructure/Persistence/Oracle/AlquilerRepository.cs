@@ -41,5 +41,6 @@ namespace WPFHexagonalDDD.Infraestructure.Persistence.Oracle
                     .AnyAsync(a => a.Clienteid == clienteId && !a.Devuelto);
             }
         }
+
     }
 }

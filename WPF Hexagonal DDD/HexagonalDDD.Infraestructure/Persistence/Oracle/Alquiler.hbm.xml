@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
-                    assembly="HexagonalDDD.Domain"
+                    assembly="WPFHexagonalDDD.Domain"
                     namespace="WPFHexagonalDDD.Domain.Aggregates.Item">
-                    <class name="VehiculoAggregate" table="FLOTA_VEHICULOS">
+                    <class name="AlquilerAggregate" table="ALQUILERES" lazy="false">
     <id name="Alquilerid" column="AlquilerID">
         <generator class="native"/>
     </id>
-    <property name="Vehiculoid" column="VEHICULOID" type="int" />
-    <property name="Clienteid" column="CLIENTEID" type="int" />
-    <property name="Devuelto" column="DEVUELTO" type="bool" />
+    <property name="Vehiculoid" column="VEHICULOID" type="Int32" />
+    <property name="Clienteid" column="CLIENTEID" type="Int32" />
+    <property name="Devuelto" column="DEVUELTO" type="Boolean" />
 </class>
 </hibernate-mapping>

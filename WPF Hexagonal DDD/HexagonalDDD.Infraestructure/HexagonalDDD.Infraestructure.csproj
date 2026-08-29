@@ -74,13 +74,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Persistence\Oracle\Alquiler.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\HexagonalDDD.Domain\HexagonalDDD.Domain.csproj">
       <Project>{5da274ec-de6d-40ef-b45d-7dc17686d279}</Project>
       <Name>HexagonalDDD.Domain</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Persistence\Oracle\Alquiler.hbm.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

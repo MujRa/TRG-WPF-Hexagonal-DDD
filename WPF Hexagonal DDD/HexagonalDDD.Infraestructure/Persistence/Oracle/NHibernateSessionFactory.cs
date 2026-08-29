@@ -24,8 +24,9 @@ namespace WPFHexagonalDDD.Infraestructure.Persistence.Oracle
                     db.Driver<NHibernate.Driver.OracleManagedDataClientDriver>();
                 });
 
-                configuration.AddAssembly(typeof(WPFHexagonalDDD.Domain.Aggregates.Item.VehiculoAggregate).Assembly);
-                configuration.AddAssembly(typeof(WPFHexagonalDDD.Domain.Aggregates.Item.AlquilerAggregate).Assembly);
+                configuration.AddAssembly(typeof(NHibernateSessionFactory).Assembly);
+/*                configuration.AddAssembly(typeof(WPFHexagonalDDD.Domain.Aggregates.Item.VehiculoAggregate).Assembly);
+                configuration.AddAssembly(typeof(WPFHexagonalDDD.Domain.Aggregates.Item.AlquilerAggregate).Assembly);*/
                 // AddAssembly escanea TODO el ensamblado buscando .hbm.xml marcados como Embedded Resource —
                 // por eso importaba tanto ese Build Action que configuramos la vez pasada
 

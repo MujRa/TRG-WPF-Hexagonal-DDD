@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Docker/">
+    <File Path="docker-compose.yml" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="Hexagonal DDD/HexagonalDDD.Presentation.csproj" Id="62a0aa57-879b-4318-b178-4966f06801a3" />
     <Project Path="HexagonalDDD.Applicaion/HexagonalDDD.Applicaion.csproj" Id="bf17d82e-2be9-4247-8304-43f0f008f808" />

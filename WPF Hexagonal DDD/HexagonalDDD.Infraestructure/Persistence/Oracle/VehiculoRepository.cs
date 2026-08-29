@@ -18,6 +18,7 @@ namespace WPFHexagonalDDD.Infraestructure.Persistence.Oracle
             using (var session = _sessionFactory.OpenSession())
             using (var transaction = session.BeginTransaction())
             {
+
                 await session.SaveAsync(aggregate);
                 await transaction.CommitAsync();
             }

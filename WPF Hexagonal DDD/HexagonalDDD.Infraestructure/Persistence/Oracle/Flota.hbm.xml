@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
-                    assembly="HexagonalDDD.Domain"
+                    assembly="WPFHexagonalDDD.Domain"
                     namespace="WPFHexagonalDDD.Domain.Aggregates.Item">
-                    <class name="VehiculoAggregate" table="FLOTA_VEHICULOS">
+                    <class name="VehiculoAggregate" table="FLOTA_VEHICULOS" lazy="false">
     <id name="VehiculoId" column="VEHICULOID">
         <generator class="native"/>
     </id>

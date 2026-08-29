@@ -8,7 +8,7 @@ namespace WPFHexagonalDDD.Domain.Aggregates.Item
 {
     public class AlquilerAggregate
     {
-        public string Alquilerid { get; private set; }
+        public int Alquilerid { get; private set; }
         public int Vehiculoid { get; private set; }
         public int Clienteid { get; private set; }
         public bool Devuelto { get; private set; }
