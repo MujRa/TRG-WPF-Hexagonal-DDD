@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{62A0AA57-879B-4318-B178-4966F06801A3}|Hexagonal DDD\\HexagonalDDD.Presentation.csproj|d:\\proyecto\\wpf hexagonal ddd\\wpf hexagonal ddd\\hexagonal ddd\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{62A0AA57-879B-4318-B178-4966F06801A3}|Hexagonal DDD\\HexagonalDDD.Presentation.csproj|solutionrelative:hexagonal ddd\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62A0AA57-879B-4318-B178-4966F06801A3}|Hexagonal DDD\\HexagonalDDD.Presentation.csproj|d:\\proyecto\\wpf hexagonal ddd\\wpf hexagonal ddd\\hexagonal ddd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62A0AA57-879B-4318-B178-4966F06801A3}|Hexagonal DDD\\HexagonalDDD.Presentation.csproj|solutionrelative:hexagonal ddd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62A0AA57-879B-4318-B178-4966F06801A3}|Hexagonal DDD\\HexagonalDDD.Presentation.csproj|d:\\proyecto\\wpf hexagonal ddd\\wpf hexagonal ddd\\hexagonal ddd\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62A0AA57-879B-4318-B178-4966F06801A3}|Hexagonal DDD\\HexagonalDDD.Presentation.csproj|solutionrelative:hexagonal ddd\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62A0AA57-879B-4318-B178-4966F06801A3}|Hexagonal DDD\\HexagonalDDD.Presentation.csproj|d:\\proyecto\\wpf hexagonal ddd\\wpf hexagonal ddd\\hexagonal ddd\\views\\vehiculoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62A0AA57-879B-4318-B178-4966F06801A3}|Hexagonal DDD\\HexagonalDDD.Presentation.csproj|solutionrelative:hexagonal ddd\\views\\vehiculoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,62 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\Program.cs",
-              "RelativeDocumentMoniker": "Hexagonal DDD\\Program.cs",
-              "ToolTip": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\Program.cs",
-              "RelativeToolTip": "Hexagonal DDD\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T12:26:18.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Hexagonal DDD\\Views\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Hexagonal DDD\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T12:26:04.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\Views\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Hexagonal DDD\\Views\\MainWindow.xaml",
-              "ToolTip": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "Hexagonal DDD\\Views\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-08-29T12:25:07.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VehiculoViewModel.cs",
-              "DocumentMoniker": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\Views\\VehiculoViewModel.cs",
-              "RelativeDocumentMoniker": "Hexagonal DDD\\Views\\VehiculoViewModel.cs",
-              "ToolTip": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\Views\\VehiculoViewModel.cs",
-              "RelativeToolTip": "Hexagonal DDD\\Views\\VehiculoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T12:24:51.653Z",
-              "EditorCaption": ""
             }
           ]
         },

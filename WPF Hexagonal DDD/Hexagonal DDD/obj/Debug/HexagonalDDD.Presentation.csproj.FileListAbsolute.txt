@@ -85,6 +85,8 @@ D:\Proyecto\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\WPF Hexagonal DDD.pdb
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPF Hexagonal DDD.exe.config
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPF Hexagonal DDD.exe
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPF Hexagonal DDD.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Antlr3.Runtime.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Iesi.Collections.dll
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
@@ -113,7 +115,10 @@ D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsof
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsoft.Extensions.Options.dll
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\NHibernate.dll
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Remotion.Linq.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Remotion.Linq.EagerFetching.dll
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\System.Buffers.dll
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\System.Collections.Immutable.dll
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\System.Diagnostics.DiagnosticSource.dll
@@ -125,6 +130,14 @@ D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\System.R
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\System.Text.Encodings.Web.dll
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\System.Text.Json.dll
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPFHexagonalDDD.Applicaion.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPFHexagonalDDD.Domain.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPFHexagonalDDD.Infraestructure.dll
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPFHexagonalDDD.Applicaion.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPFHexagonalDDD.Domain.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPFHexagonalDDD.Infraestructure.pdb
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Antlr3.Runtime.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Iesi.Collections.xml
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsoft.Extensions.Configuration.xml
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
@@ -153,6 +166,9 @@ D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsof
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsoft.Extensions.Options.xml
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\NHibernate.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Remotion.Linq.xml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Remotion.Linq.EagerFetching.xml
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\System.Buffers.xml
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\System.Collections.Immutable.xml
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\System.Diagnostics.DiagnosticSource.xml
@@ -167,30 +183,14 @@ D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\System.T
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\HexagonalDDD.Presentation.csproj.AssemblyReference.cache
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\HexagonalDDD.Presentation.csproj.SuggestedBindingRedirects.cache
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\WPF Hexagonal DDD.exe.config
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\Views\MainWindow.g.cs
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\WPF Hexagonal DDD_MarkupCompile.cache
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\WPF Hexagonal DDD_MarkupCompile.lref
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\Views\MainWindow.baml
+D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\WPF Hexagonal DDD.g.resources
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\WPF_Hexagonal_DDD.Properties.Resources.resources
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\HexagonalDDD.Presentation.csproj.GenerateResource.cache
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\HexagonalDDD.Presentation.csproj.CoreCompileInputs.cache
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\Hexagona.A06EC6C7.Up2Date
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\WPF Hexagonal DDD.exe
 D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\WPF Hexagonal DDD.pdb
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Antlr3.Runtime.dll
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Iesi.Collections.dll
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\NHibernate.dll
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Remotion.Linq.dll
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Remotion.Linq.EagerFetching.dll
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPFHexagonalDDD.Applicaion.dll
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPFHexagonalDDD.Domain.dll
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPFHexagonalDDD.Infraestructure.dll
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPFHexagonalDDD.Applicaion.pdb
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPFHexagonalDDD.Domain.pdb
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\WPFHexagonalDDD.Infraestructure.pdb
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Antlr3.Runtime.xml
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Iesi.Collections.xml
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\NHibernate.xml
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Remotion.Linq.xml
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\bin\Debug\Remotion.Linq.EagerFetching.xml
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\WPF Hexagonal DDD_MarkupCompile.cache
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\WPF Hexagonal DDD_MarkupCompile.lref
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\WPF Hexagonal DDD.g.resources
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\Views\MainWindow.g.cs
-D:\Proyecto\WPF Hexagonal DDD\WPF Hexagonal DDD\Hexagonal DDD\obj\Debug\Views\MainWindow.baml

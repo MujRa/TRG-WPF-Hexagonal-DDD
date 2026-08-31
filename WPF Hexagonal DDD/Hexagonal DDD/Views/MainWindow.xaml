@@ -13,6 +13,8 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="auto" />
@@ -22,11 +24,20 @@
         <TextBox Grid.Column="0" Grid.Row="0" Text="Año Vehiculo :" IsReadOnly="True" />
         <TextBox Grid.Column="0" Grid.Row="1" Text="MArca Vehiculo :" IsReadOnly="True"/>
         <TextBox Grid.Column="0" Grid.Row="2" Text="Matricula Vehiculo :" IsReadOnly="True" />
-
+        <TextBox Grid.Column="0" Grid.Row="4" Text="Id Cliente :" IsReadOnly="True" />
+        <TextBox Grid.Column="0" Grid.Row="5" Text="Id Vehiculo :" IsReadOnly="True" />
+        
         <TextBox Grid.Column="1" Grid.Row="0" Text="{Binding Anio, UpdateSourceTrigger=PropertyChanged}"/>
         <TextBox Grid.Column="1" Grid.Row="1" Text="{Binding Marca, UpdateSourceTrigger=PropertyChanged}"/>
         <TextBox Grid.Column="1" Grid.Row="2" Text="{Binding Matricula, UpdateSourceTrigger=PropertyChanged}"/>
         <Button Grid.Row="3" Content="Agregar vehículo" Command="{Binding AgregarVehiculoCommand}"/>
-        <TextBlock Grid.Column="1" Grid.Row="4" Text="{Binding Mensaje}"/>
+
+        <TextBox Grid.Column="1" Grid.Row="4" Text="{Binding ClienteId, UpdateSourceTrigger=PropertyChanged}"/>
+        <TextBox Grid.Column="1" Grid.Row="5" Text="{Binding VehiculoId, UpdateSourceTrigger=PropertyChanged}"/>
+        <Button Grid.Row="6" Content="Alquilar vehículo" Command="{Binding AgregarAlquilerCommand}"/>
+
+        <TextBlock Grid.Column="1" Grid.Row="7" Text="{Binding Mensaje}"/>
+
+
     </Grid>
 </Window>

@@ -24,7 +24,9 @@ namespace WPF_Hexagonal_DDD.Views
             get => _mensaje;
             set { _mensaje = value; OnPropertyChanged(nameof(Mensaje)); }
         }
-
+        /// <summary>
+        /// Agregar vehiculo a flota
+        /// </summary>
         private string _anio;
         public string Anio
         {
@@ -46,8 +48,40 @@ namespace WPF_Hexagonal_DDD.Views
             set { _matricula = value; OnPropertyChanged(nameof(Matricula)); }
         }
 
-        public ICommand AgregarVehiculoCommand { get; }
+        /// <summary>
+        /// Alquilar vehiculo
+        /// </summary>
+        private int _clienteId;
 
+        public int ClienteId
+        {
+            get => _clienteId;
+            set { _clienteId = value; OnPropertyChanged(nameof(ClienteId)); }
+        }
+
+        private int _vehiculoId;
+
+        public int VehiculoId
+        {
+            get => _vehiculoId;
+            set { _vehiculoId = value; OnPropertyChanged(nameof(VehiculoId)); }
+        }
+
+        private bool _devuelto;
+        public bool Devuelto
+        {
+            get => _devuelto;
+            set { _devuelto = value; OnPropertyChanged(nameof(Devuelto)); }
+        }
+
+
+        public ICommand AgregarVehiculoCommand { get; }
+        public ICommand AgregarAlquilerCommand { get; }
+
+        /// <summary>
+        /// Conector para alguilar vehiculo
+        /// o agregar vehiculo a flota
+        /// </summary>
         public VehiculoViewModel()
         {
             var sessionFactory = NHibernateSessionFactory.GetSessionFactory(
@@ -56,8 +90,9 @@ namespace WPF_Hexagonal_DDD.Views
             _agregarHandler = new AgregarVehiculoaFlota(new VehiculoRepository(sessionFactory));
             _alquilarHandler = new AlquilarVehiculoHandler(new AlquilerRepository(sessionFactory));
 
+            //Agrega vehiculo a flota <5años
             AgregarVehiculoCommand = new RelayCommand(
-               execute: async() =>
+               execute: async () =>
                {
                    try
                    {
@@ -71,7 +106,23 @@ namespace WPF_Hexagonal_DDD.Views
                },
                canExecute: () => !string.IsNullOrWhiteSpace(Anio) && !string.IsNullOrWhiteSpace(Marca) && !string.IsNullOrWhiteSpace(Matricula)
                );
+
+            //Alquila vehiculo a cliente sin otro alquiler activo
+            AgregarAlquilerCommand = new RelayCommand(
+                execute: async() =>
+                {
+                    try
+                    {
+                        await _alquilarHandler.ExecuteAsync(ClienteId, VehiculoId);
+                        Mensaje = "Vehiculo alquilado correctamente";
+                    }
+                    catch (Exception ex)
+                    {
+                        Mensaje = ex.Message;
+                    }
+                });
         }
+
 
     }
 }

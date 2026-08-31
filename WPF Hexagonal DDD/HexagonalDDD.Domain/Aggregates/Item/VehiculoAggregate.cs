@@ -13,7 +13,7 @@ namespace WPFHexagonalDDD.Domain.Aggregates.Item
         public string VehiculoMarca { get; private set; }
         public string VehiculoMatricula { get; private set; }
 
-        //Uso NHibernet
+        //Constructor Uso NHibernet
         /// <summary>
         /// Solo para uso de NHibernet
         /// </summary>

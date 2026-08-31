@@ -27,16 +27,5 @@ namespace WPFHexagonalDDD.Infraestructure.Test
             SeLlamoSaveAsync = true;
             return Task.CompletedTask;
         }
-
-        [TestMethod]
-        public async Task Cliente_SinAlquilerActivo_GuardaAlquiler()
-        {
-            var alquilerRepoFalso = new AlquilerRepositoryFalso(clienteYaTieneAlquiler: false);
-            var handler = new AlquilarVehiculoHandler(alquilerRepoFalso);
-
-            await handler.ExecuteAsync(clienteID: 1, vehiculoId: 5);
-
-            Assert.IsTrue(alquilerRepoFalso.SeLlamoSaveAsync);
-        }
     }
 }

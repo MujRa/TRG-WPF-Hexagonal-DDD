@@ -24,5 +24,10 @@ namespace WPF_Hexagonal_DDD.Views
             InitializeComponent();
             DataContext = new VehiculoViewModel();
         }
+
+        private void Button_Click()
+        {
+
+        }
     }
 }

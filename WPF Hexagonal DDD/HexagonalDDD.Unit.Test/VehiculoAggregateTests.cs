@@ -1,5 +1,5 @@
-﻿using WPFHexagonalDDD.Domain.Aggregates.Item;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using WPFHexagonalDDD.Domain.Aggregates.Item;
 using System;
 
 namespace WPFHexagonalDDD.Unit.Test
@@ -12,7 +12,7 @@ namespace WPFHexagonalDDD.Unit.Test
         {
             int anioInvalido = DateTime.Now.Year - 10;
             Assert.ThrowsException<Exception>(() =>
-                new VehiculoAggregate(anioInvalido, "Toyora", "XYZ987"));
+                new VehiculoAggregate(anioInvalido, "Toyota", "XYZ987"));
         }
 
         [TestMethod]

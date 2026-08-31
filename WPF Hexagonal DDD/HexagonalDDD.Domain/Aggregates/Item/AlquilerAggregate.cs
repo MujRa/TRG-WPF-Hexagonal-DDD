@@ -13,7 +13,7 @@ namespace WPFHexagonalDDD.Domain.Aggregates.Item
         public int Clienteid { get; private set; }
         public bool Devuelto { get; private set; }
 
-        //Uso NHibernet
+        //Constructor Uso NHibernet
         /// <summary>
         /// Solo para uso con NHibernate
         /// </summary>
