@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{62A0AA57-879B-4318-B178-4966F06801A3}|Hexagonal DDD\\HexagonalDDD.Presentation.csproj|d:\\proyecto\\wpf hexagonal ddd\\wpf hexagonal ddd\\hexagonal ddd\\views\\vehiculoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62A0AA57-879B-4318-B178-4966F06801A3}|Hexagonal DDD\\HexagonalDDD.Presentation.csproj|solutionrelative:hexagonal ddd\\views\\vehiculoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA274EC-DE6D-40EF-B45D-7DC17686D279}|HexagonalDDD.Domain\\HexagonalDDD.Domain.csproj|d:\\proyecto\\wpf hexagonal ddd\\wpf hexagonal ddd\\hexagonalddd.domain\\aggregates\\item\\vehiculoaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA274EC-DE6D-40EF-B45D-7DC17686D279}|HexagonalDDD.Domain\\HexagonalDDD.Domain.csproj|solutionrelative:hexagonalddd.domain\\aggregates\\item\\vehiculoaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA274EC-DE6D-40EF-B45D-7DC17686D279}|HexagonalDDD.Domain\\HexagonalDDD.Domain.csproj|d:\\proyecto\\wpf hexagonal ddd\\wpf hexagonal ddd\\hexagonalddd.domain\\repositories\\ivehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA274EC-DE6D-40EF-B45D-7DC17686D279}|HexagonalDDD.Domain\\HexagonalDDD.Domain.csproj|solutionrelative:hexagonalddd.domain\\repositories\\ivehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A08428F-43A2-42BA-B083-1070ABC01189}|HexagonalDDD.Infraestructure\\HexagonalDDD.Infraestructure.csproj|d:\\proyecto\\wpf hexagonal ddd\\wpf hexagonal ddd\\hexagonalddd.infraestructure\\persistence\\oracle\\vehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A08428F-43A2-42BA-B083-1070ABC01189}|HexagonalDDD.Infraestructure\\HexagonalDDD.Infraestructure.csproj|solutionrelative:hexagonalddd.infraestructure\\persistence\\oracle\\vehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF17D82E-2BE9-4247-8304-43F0F008F808}|HexagonalDDD.Applicaion\\HexagonalDDD.Applicaion.csproj|D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\hexagonalddd.applicaion\\usecases\\agregarvehiculoaflota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF17D82E-2BE9-4247-8304-43F0F008F808}|HexagonalDDD.Applicaion\\HexagonalDDD.Applicaion.csproj|solutionrelative:hexagonalddd.applicaion\\usecases\\agregarvehiculoaflota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A0AA57-879B-4318-B178-4966F06801A3}|Hexagonal DDD\\HexagonalDDD.Presentation.csproj|d:\\proyecto\\wpf hexagonal ddd\\wpf hexagonal ddd\\hexagonal ddd\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62A0AA57-879B-4318-B178-4966F06801A3}|Hexagonal DDD\\HexagonalDDD.Presentation.csproj|solutionrelative:hexagonal ddd\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +42,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehiculoRepository.cs",
+              "DocumentMoniker": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\HexagonalDDD.Infraestructure\\Persistence\\Oracle\\VehiculoRepository.cs",
+              "RelativeDocumentMoniker": "HexagonalDDD.Infraestructure\\Persistence\\Oracle\\VehiculoRepository.cs",
+              "ToolTip": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\HexagonalDDD.Infraestructure\\Persistence\\Oracle\\VehiculoRepository.cs",
+              "RelativeToolTip": "HexagonalDDD.Infraestructure\\Persistence\\Oracle\\VehiculoRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T14:46:17.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgregarVehiculoaFlota.cs",
+              "DocumentMoniker": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\HexagonalDDD.Applicaion\\UseCases\\AgregarVehiculoaFlota.cs",
+              "RelativeDocumentMoniker": "HexagonalDDD.Applicaion\\UseCases\\AgregarVehiculoaFlota.cs",
+              "ToolTip": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\HexagonalDDD.Applicaion\\UseCases\\AgregarVehiculoaFlota.cs*",
+              "RelativeToolTip": "HexagonalDDD.Applicaion\\UseCases\\AgregarVehiculoaFlota.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T15:12:53.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVehiculoRepository.cs",
+              "DocumentMoniker": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\HexagonalDDD.Domain\\Repositories\\IVehiculoRepository.cs",
+              "RelativeDocumentMoniker": "HexagonalDDD.Domain\\Repositories\\IVehiculoRepository.cs",
+              "ToolTip": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\HexagonalDDD.Domain\\Repositories\\IVehiculoRepository.cs",
+              "RelativeToolTip": "HexagonalDDD.Domain\\Repositories\\IVehiculoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T14:44:54.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiculoAggregate.cs",
+              "DocumentMoniker": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\HexagonalDDD.Domain\\Aggregates\\Item\\VehiculoAggregate.cs",
+              "RelativeDocumentMoniker": "HexagonalDDD.Domain\\Aggregates\\Item\\VehiculoAggregate.cs",
+              "ToolTip": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\HexagonalDDD.Domain\\Aggregates\\Item\\VehiculoAggregate.cs",
+              "RelativeToolTip": "HexagonalDDD.Domain\\Aggregates\\Item\\VehiculoAggregate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T14:44:21.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "VehiculoViewModel.cs",
               "DocumentMoniker": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\Views\\VehiculoViewModel.cs",
               "RelativeDocumentMoniker": "Hexagonal DDD\\Views\\VehiculoViewModel.cs",
-              "ToolTip": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\Views\\VehiculoViewModel.cs",
-              "RelativeToolTip": "Hexagonal DDD\\Views\\VehiculoViewModel.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAA3wG0AAABBAAAAAAAAAA==",
+              "ToolTip": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\Views\\VehiculoViewModel.cs*",
+              "RelativeToolTip": "Hexagonal DDD\\Views\\VehiculoViewModel.cs*",
+              "ViewState": "AgIAAFIAAAAAAAAAAAA3wGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T12:34:50.589Z",
+              "WhenOpened": "2026-09-02T14:35:35.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\App.config",
+              "RelativeDocumentMoniker": "Hexagonal DDD\\App.config",
+              "ToolTip": "D:\\Proyecto\\WPF Hexagonal DDD\\WPF Hexagonal DDD\\Hexagonal DDD\\App.config",
+              "RelativeToolTip": "Hexagonal DDD\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-02T14:28:40.676Z",
               "EditorCaption": ""
             }
           ]

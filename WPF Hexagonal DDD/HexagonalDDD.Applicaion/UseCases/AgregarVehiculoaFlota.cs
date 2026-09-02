@@ -22,12 +22,13 @@ namespace WPFHexagonalDDD.Applicaion.UseCases
         /// <param name="vehiculoanio"></param>
         /// <param name="vehiculomarca"></param>
         /// <param name="vehiculomatricula"></param>
+        /// <param name="anioFlota"></param>
         /// <returns></returns>
-        public async Task ExecuteAsync(int vehiculoanio, string vehiculomarca, string vehiculomatricula)
+        public async Task ExecuteAsync(int vehiculoanio, string vehiculomarca, string vehiculomatricula, int anioFlota)
         {
 
             //Guardar vehiculo en flota
-            var aggregate = new VehiculoAggregate(vehiculoanio,vehiculomarca, vehiculomatricula);
+            var aggregate = new VehiculoAggregate(vehiculoanio,vehiculomarca, vehiculomatricula, anioFlota);
             await _vehiculorepository.SaveAsync(aggregate);
         }
     }

@@ -27,10 +27,10 @@ namespace WPFHexagonalDDD.Domain.Aggregates.Item
         /// <param name="vehiculomarca"></param>
         /// <param name="vehiculoMatricula"></param>
         /// <exception cref="Exception"></exception>
-        public VehiculoAggregate(int vehiculoanio, string vehiculomarca, string vehiculoMatricula)
+        public VehiculoAggregate(int vehiculoanio, string vehiculomarca, string vehiculoMatricula, int anioFlota)
         {
             //Validar si el vehiculo tiene mas de 5 años
-            if ((DateTime.Now.Year - vehiculoanio) > 5)
+            if ((DateTime.Now.Year - vehiculoanio) > anioFlota)
                 throw new Exception("El vehiculo tiene más de 5 años, no puede pertenecer a la flota");
 
             VehiculoAnio = vehiculoanio;

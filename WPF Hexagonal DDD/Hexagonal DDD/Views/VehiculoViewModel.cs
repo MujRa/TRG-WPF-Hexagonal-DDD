@@ -1,10 +1,13 @@
 ﻿using WPFHexagonalDDD.Applicaion.UseCases;
 using WPFHexagonalDDD.Applicaion;
+using System.Configuration;
 using System.ComponentModel;
 using System.Windows.Input;
 using WPFHexagonalDDD.Infraestructure.Persistence.Oracle;
 using NHibernate.Engine;
 using System;
+using System.Configuration;
+using NHibernate.Cfg;
 
 
 namespace WPF_Hexagonal_DDD.Views
@@ -52,6 +55,7 @@ namespace WPF_Hexagonal_DDD.Views
         /// Alquilar vehiculo
         /// </summary>
         private int _clienteId;
+        private int _anioFlota;
 
         public int ClienteId
         {
@@ -85,18 +89,18 @@ namespace WPF_Hexagonal_DDD.Views
         public VehiculoViewModel()
         {
             var sessionFactory = NHibernateSessionFactory.GetSessionFactory(
-                "Data Source=localhost:1521/XEPDB1;User Id=rentcar;Password=rentcar123;");
+                ConfigurationManager.ConnectionStrings["TSG_HEXAGONAL"].ConnectionString);
 
             _agregarHandler = new AgregarVehiculoaFlota(new VehiculoRepository(sessionFactory));
             _alquilarHandler = new AlquilarVehiculoHandler(new AlquilerRepository(sessionFactory));
-
+            _anioFlota = int.Parse(ConfigurationManager.AppSettings["anioFlota"].ToString());
             //Agrega vehiculo a flota <5años
             AgregarVehiculoCommand = new RelayCommand(
                execute: async () =>
                {
                    try
                    {
-                       await _agregarHandler.ExecuteAsync(int.Parse(Anio), Marca, Matricula);
+                       await _agregarHandler.ExecuteAsync(int.Parse(Anio), Marca, Matricula,_anioFlota);
                        Mensaje = "Vehículo agregado correctamente";
                    }
                    catch (Exception ex)
